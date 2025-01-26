@@ -1,3 +1,6 @@
+
+# https://github.com/OmicronFlare/pysources
+
 import requests
 from colorama import Fore
 import os
