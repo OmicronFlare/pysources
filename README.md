@@ -1,1 +1,3 @@
 # Omicron's Discord Tools - Simple
+
+MTM1NTM2MTExNzE5MDM1NzE4Mg.GCwB4a.rMdNPIb9_xFXfPU4Iq2kCDVeqUdS6a2YKDiQWI
